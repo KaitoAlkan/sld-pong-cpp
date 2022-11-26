@@ -39,3 +39,4 @@ Todos los botones/teclas utilizados por los controles del programa están especi
 Los cambios en "StructsDef.h", "GSLogoState.h" y "InputModule.h" son mínimos, pero importante ya que posibilitan que los nuevos módulos cumplan su función.
 
 ![Codigo del programa](/doc/img/morecode.png)
+
