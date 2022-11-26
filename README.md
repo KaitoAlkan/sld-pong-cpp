@@ -40,3 +40,12 @@ Los cambios en "StructsDef.h", "GSLogoState.h" y "InputModule.h" son mínimos, p
 
 ![Codigo del programa](/../main/doc/img/morecode.png)
 
+## Controles
+- W/S: Mueve al jugador 1 (lado izquierdo) para arriba y abajo respectivamente.
+- UP/DOWN: Mueve al jugador 2 (lado derecho) para arriba y abajo respectivamente.
+- ESPACIO: Realiza el saque cuando empieza el juego.
+
+## Importante
+Dejo este archivo público por la facultad, pero cualquiera puede usarlo si por alguna razón lo quieren usar. Si lo usan, agradecería que me den crédito, pero no es requerimiento (es un programa muy simple después de todo).
+
+Saludos.
