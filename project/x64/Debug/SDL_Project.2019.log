@@ -1,0 +1,52 @@
+﻿  SDL_Project.cpp
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\SDL_Project.cpp(241,28): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\SDL_Project.cpp(242,29): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\SDL_Project.cpp(260,28): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\SDL_Project.cpp(261,29): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  GSLogoState.cpp
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(13,23): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(14,23): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(49,28): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(55,28): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(86,28): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(92,28): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(124,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(129,35): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(130,35): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(151,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(158,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(159,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(187,19): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\src\GSLogoState.cpp(188,19): warning C4305: '=': truncamiento de 'double' a 'float'
+  Generando código...
+  SDL_Project.2019.vcxproj -> C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\x64\Debug\SDL_Project.2019.exe
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_image\lib\x64\libjpeg-9.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_image\lib\x64\libpng16-16.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_image\lib\x64\libtiff-5.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_image\lib\x64\libwebp-7.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_image\lib\x64\SDL2_image.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_image\lib\x64\zlib1.dll
+  6 archivo(s) copiado(s)
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  1 archivo(s) copiado(s)
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2\lib\x64\SDL2.dll
+  1 archivo(s) copiado(s)
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\libFLAC-8.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\libmodplug-1.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\libmpg123-0.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\libogg-0.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\libopus-0.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\libopusfile-0.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\libvorbis-0.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\libvorbisfile-3.dll
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\libs\SDL2_mixer\lib\x64\SDL2_mixer.dll
+  9 archivo(s) copiado(s)
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\assets\bgm\littleidea.mp3
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\assets\bgm\persona3ost.mp3
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\assets\fonts\arial.ttf
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\assets\img\ball.png
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\assets\img\logo.png
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\assets\img\paleta.png
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\assets\img\victory1.png
+  C:\Users\PC\Downloads\SDL_Project-main\SDL_Project_Nacho-main\project\..\assets\img\victory2.png
+  8 archivo(s) copiado(s)
