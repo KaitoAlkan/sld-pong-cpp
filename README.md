@@ -12,7 +12,7 @@ Todo el código fue escrito con Microsoft Visual Studio 2019 y la idea es correr
 - Abrir el archivo "SDL_Project.2019.sln".
 - Depurar (si estás en Visual Studio) o compilar.
 
-![El juego](/doc/img/game.png)
+![El juego](/../main/doc/img/game.png)
 
 ## Funciones
 En "SDL_Project.cpp" encontrarás toda la base que posibilita la ejecución del programa:
@@ -38,5 +38,5 @@ Todos los botones/teclas utilizados por los controles del programa están especi
 
 Los cambios en "StructsDef.h", "GSLogoState.h" y "InputModule.h" son mínimos, pero importante ya que posibilitan que los nuevos módulos cumplan su función.
 
-![Codigo del programa](/doc/img/morecode.png)
+![Codigo del programa](/../main/doc/img/morecode.png)
 
